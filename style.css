@@ -37,7 +37,7 @@ body {
     flex-direction: column;
     background-color: #44444C;
     padding: 20px;
-    height:780px
+    height:900px
 }
 
 nav {
@@ -90,7 +90,7 @@ nav > button:hover {
     align-items: center;
     background-color: #8C8C8C;
     padding: 20px;
-    height:780px 
+    height:900px 
 }
 
 #about-section-skills{
@@ -142,7 +142,7 @@ nav > button:hover {
     'item3 item4'
     'item3 item4';
     background-color: #D6D6D6;
-    height:850px;
+    height:950px;
 }
 
 #portfolio-item1 {
